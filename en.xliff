@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="8" original="/test-branch/test.json" source-language="en" target-language="en" datatype="plaintext" project-id="694103" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="2" resname="title">
+        <source>你好</source>
+        <target state="needs-translation">你好</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4" resname="description">
+        <source>喂!</source>
+        <target state="needs-translation">喂!</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; description</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6" resname="type">
+        <source>喂!你好</source>
+        <target state="needs-translation">喂!你好</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; type</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
